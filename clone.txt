@@ -1,0 +1,3 @@
+clone a repository from github to local repo
+and add this clone.txt in local
+then push it to github
